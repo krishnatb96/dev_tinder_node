@@ -1,0 +1,23 @@
+- Creaet the git repo
+- initialize the project npm init
+- node_modules, package.json and package-lock.json
+- Install expess
+- Create a server 
+- Listen the port 8000
+- Write the request handler for /test, /user
+- Install nodemon and update the script inside the package.json
+- What are dependancies
+- what is use of "-g" while npm install
+- Difference between the caret & tilde (^ & ~)
+ 
+ - Initialize the git
+ - .gitignore
+ - Create the remote repo on github
+ - Push all code to remote origin
+ - Order of routes matter a lot
+ - Write a logic to handle GET, POST, PATCH, and DELETE API calls and test on postman
+ - Explore routing and use of ?, + , ()  * in the routes
+ - Use of regex in routes /a/ , /.*fly$/
+ - Reading the query params in the routes
+ - Reading the dynamic routes
+ 
